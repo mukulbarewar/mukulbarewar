@@ -11,9 +11,9 @@ I'll also be showcasing my projects, including my accomplishments and challenges
 Let's Connect 🤝
 If you're interested in collaborating on exciting projects or just want to say hello, I've included ways to get in touch - I'm looking forward to connecting with you and exploring new opportunities together! 😊
 
-Email: your_email@example.com
-LinkedIn: linkedin.com/in/your_username
-GitHub: github.com/your_username
+Email: barewarmukul321@gmail.com
+LinkedIn: https://www.linkedin.com/in/mukulb1/
+GitHub: https://github.com/mukulbarewar/
 Twitter: twitter.com/your_username
 I'm looking forward to connecting with you and exploring new opportunities together! 😊
 
